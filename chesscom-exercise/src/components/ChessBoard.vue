@@ -73,7 +73,7 @@ export default {
   /*flex-wrap: wrap;*/
   justify-content: center;
   gap: 20px;
-  padding: 0 15vw 0 15vw;
+  padding: 3vw 15vw 0 15vw;
 }
 
 .chessboard {
