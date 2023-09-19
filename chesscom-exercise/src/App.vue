@@ -6,7 +6,7 @@
 
 <script>
 import ChessBoard from "@/components/ChessBoard.vue";
- 
+
 export default {
   name: "App",
   components: {
@@ -17,11 +17,9 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Montserrat, Futura, Avenir, sans-serif;
   text-align: center;
-  color: #2c3e50;
+  color: black;
   margin-top: 20px;
 }
 
